@@ -1,0 +1,8 @@
+.idea
+.DS_store
+node_modules
+/practice
+/app
+/project/build
+initial-webpack-config.js
+package-lock.json
